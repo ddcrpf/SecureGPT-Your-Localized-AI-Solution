@@ -1,6 +1,6 @@
 # SecureGPT: Your Localized AI Solution
 
-![System Architecture](./path_to_your_image/SihLLMEmbedding.jpg)
+![System Architecture](./SihLLMEmbedding.jpg)
 
 ## Overview
 
@@ -19,7 +19,7 @@ SecureGPT is a secure, local Large Language Model (LLM) solution designed to pro
 ## Architecture
 
 ### Document Ingestion & Processing
-![Document Processing Workflow](./path_to_your_image/Untitled.png)
+![System Architecture](./SihLLMEmbedding.jpg)
 
 - **Input**: Documents (PDF, TXT, etc.) are ingested by the system.
 - **Processing**: The system extracts relevant data and context, which is then split into smaller text chunks.
@@ -31,7 +31,7 @@ SecureGPT is a secure, local Large Language Model (LLM) solution designed to pro
 - **LLM Integration**: The LLM refines the search results to provide the final ranked output.
 
 ### Security & Access Control
-![Security Architecture](./path_to_your_image/Untitled.png)
+![Security Architecture](./UntitledDiagram.drawio.png)
 
 - **User Authentication**: Only authorized users can interact with the system.
 - **Secure Communication**: Data is encrypted during transmission and stored securely.
